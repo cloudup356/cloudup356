@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me. email me at spencerglendenning@gmail.com 
+- 📫 How to reach me. email me 
 - ⚡ Fun fact: I use an intel i5 4th gen 
 
 <!---
