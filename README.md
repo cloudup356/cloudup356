@@ -3,7 +3,7 @@ also linux is amazing (I use arch btw) and I dont really like python. C/C++ dev 
 
 INDIE EVERYTHING (games, music, etc)
 
-As of 2/05/2026, I will be moving to codeberg you can find me here: https://codeberg.org/300clouds 
+As of 2/05/2026, I will be mostly moving to codeberg, you can find me here: https://codeberg.org/300clouds 
 <!---
 cloudup356/cloudup356 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
